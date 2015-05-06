@@ -6,7 +6,7 @@ module.exports = function(grunt){
                 options: {
                     specs: 'app-specs.js',
                     vendor: [
-                        'bower_components/angular/angular.min.js',
+                        'bower_components/angular/angular.js',
                         'bower_components/angular-mocks/angular-mocks.js'
                     ]
                 }
